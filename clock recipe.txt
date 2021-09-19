@@ -1,0 +1,18 @@
+Int variable for hours
+Int Variable for minutes
+Int Variable for seconds
+
+String variable for AM PM
+
+While loop
+
+Increase seconds
+
+Check if seconds = 1 minutes; if so set seconds to 0; minute + 1
+Check if minutes = 1 hour; if so set minutes to 0; hour int + 1
+Check if hours are about to reach 12; if so check AM to PM or vice versa
+Check if hours about to reach 13; if so change hours to 1
+
+Display time on output
+
+
